@@ -55,28 +55,6 @@ Thanks !
 * Faculty userid  : Faculty id
 * Student Userid  : course-sem-rollnumber (IT-1-1001)        
 
-## Demo
-
-https://user-images.githubusercontent.com/63580687/236466989-dc4c93f7-7f11-4bd6-9737-dbe43cbdfffd.mp4
-
-
-## Screenshots
-
-<img src="screenshots/loginscreen.png"/>
-<img src="screenshots/homepage.png"/>
-<img src="screenshots/courseslist.png"/>
-<img src="screenshots/subjects.png"/>
-<img src="screenshots/students.png"/>
-<img src="screenshots/studentdetails.png"/>
-<img src="screenshots/marksheet.png"/>
-<img src="screenshots/faculties.png"/>
-<img src="screenshots/markattandance.png"/>
-<img src="screenshots/attandancereport.png"/>
-<img src="screenshots/declareresult.png"/>
-<img src="screenshots/groupchatting.png"/>
-<img src="screenshots/personalchatting.png"/>
-<img src="screenshots/collagedetails.png"/>
-
 ## About
 
 TEAM MEMBERS: PIYUSH PRAKASH, CHETNA RAJEEV, LATHIKA KOMMINENI
